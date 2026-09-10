@@ -1,3 +1,9 @@
+mtdev (1.1.6-2) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Thu, 10 Sep 2026 19:34:57 +0800
+
 mtdev (1.1.6-1) unstable; urgency=medium
 
   * New upstream release. (Closes: #962128)
